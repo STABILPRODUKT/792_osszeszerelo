@@ -1,0 +1,38 @@
+<diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+  <DSHISTORY>
+    <D_History diffgr:id="D_History1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+      <iID>1</iID>
+      <iProjectdataID>38</iProjectdataID>
+      <szComment>SetProjectStatus</szComment>
+      <iEditor>2</iEditor>
+      <dtFileTimeStamp>2021-02-02T14:25:24.2224814+01:00</dtFileTimeStamp>
+      <iFileSize>13</iFileSize>
+      <szMD5val>GVeQCLwI0Py11QdcOaWyUw==</szMD5val>
+      <szProjectdataName>ProjectStatusFlag.dat</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History2" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+      <iID>2</iID>
+      <iProjectdataID>38</iProjectdataID>
+      <szComment>SetProjectStatus</szComment>
+      <iEditor>2</iEditor>
+      <dtFileTimeStamp>2021-02-22T09:11:32.5562034+01:00</dtFileTimeStamp>
+      <iFileSize>13</iFileSize>
+      <szMD5val>CgtG2PzatyWltLDniDe8eg==</szMD5val>
+      <szProjectdataName>ProjectStatusFlag.dat</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History3" msdata:rowOrder="2" diffgr:hasChanges="inserted">
+      <iID>3</iID>
+      <iProjectdataID>38</iProjectdataID>
+      <szComment>SetProjectStatus</szComment>
+      <iEditor>2</iEditor>
+      <dtFileTimeStamp>2021-02-22T09:15:19.7442747+01:00</dtFileTimeStamp>
+      <iFileSize>13</iFileSize>
+      <szMD5val>GVeQCLwI0Py11QdcOaWyUw==</szMD5val>
+      <szProjectdataName>ProjectStatusFlag.dat</szProjectdataName>
+    </D_History>
+    <D_DBVersion diffgr:id="D_DBVersion2" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+      <iSupportVersion>1</iSupportVersion>
+      <iCreateVersion>1</iCreateVersion>
+    </D_DBVersion>
+  </DSHISTORY>
+</diffgr:diffgram>
